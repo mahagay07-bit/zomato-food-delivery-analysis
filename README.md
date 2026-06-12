@@ -1,2 +1,20 @@
-# zomato-food-delivery-analysis
-Data analysis project on Zomato food delivery data using Python, Excel, and Power BI to identify customer trends, order patterns, and business insights.
+# Zomato Food Delivery Analysis
+
+## Project Overview
+This project analyzes Zomato food delivery data to understand customer behavior, order trends, restaurant performance, and delivery patterns.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Excel
+- Power BI
+
+## Key Insights
+- Order trend analysis
+- Customer behavior analysis
+- Restaurant performance evaluation
+- Delivery pattern analysis
+
+## Outcome
+Generated actionable insights to support data-driven decision making in food delivery operations.
